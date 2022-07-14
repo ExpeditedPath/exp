@@ -6,8 +6,8 @@ $max-width: 75rem;
 
 :root {
 	// fonts:
-	--base-font: 'Rubik', sans-serif;
-	--title-font: 'Russo One', sans-serif;
+	--base-font: 'Rubik', rubik;
+	--title-font: 'Rubik', rubik;
 
 	--base-bright-font-color: #249AD4;
 	--accent-bright-font-color: #004F8D;
@@ -21,6 +21,7 @@ $max-width: 75rem;
 	--secondary-color: #73B2D1;
 	--thirdary-color: #393939;
 	--fourth-color: #a3c6d6;
+  --footer-color: #CC77F6;
 
 	// borders:
 	--border-radius: 10px;
